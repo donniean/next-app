@@ -1,0 +1,16 @@
+clsx
+commitlint
+corepack
+cssnano
+deepmerge
+depcheck
+htmlhint
+immer
+markdownlint
+sonarjs
+stylelint
+svgr
+tailwindcss
+tanstack
+vitest
+zustand
