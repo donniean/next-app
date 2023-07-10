@@ -1,3 +1,4 @@
+// https://github.com/vercel/next.js/blob/canary/packages/create-next-app/templates/app/ts/tsconfig.json
 {
   "compilerOptions": {
     "target": "es5",
