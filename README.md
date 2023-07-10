@@ -1,9 +1,6 @@
 # next-app
 
-- [next-app](#next-app)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Recommended Packages](#recommended-packages)
+a next.js boilerplate
 
 [![License: MIT](https://img.shields.io/github/license/donniean/next-app)](https://github.com/donniean/next-app/blob/master/LICENSE) [![CI](https://github.com/donniean/next-app/actions/workflows/ci.yml/badge.svg)](https://github.com/donniean/next-app/actions/workflows/ci.yml)
 
