@@ -17,6 +17,7 @@ module.exports = {
     },
     stylelint: {
       patterns: ['**/*.css'],
+      cssModules: true,
     },
     markdownlint: {
       patterns: ['**/*.md'],
