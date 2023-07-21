@@ -1,6 +1,14 @@
 declare module '*.svg' {
-  import type { ComponentProps } from 'react';
-  import { FunctionComponent } from 'react';
+  import type { ComponentProps, FunctionComponent } from 'react';
 
-  export default FunctionComponent<ComponentProps<'svg'> & { title?: string }>;
+  const ReactComponent: FunctionComponent<
+    ComponentProps<'svg'> & { title?: string }
+  >;
+
+  export default ReactComponent;
+}
+
+declare module '*.svg?url' {
+  const src: string;
+  export default src;
 }
