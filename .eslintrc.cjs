@@ -175,8 +175,7 @@ module.exports = {
           'error',
           {
             callbacksLast: true,
-            shorthandFirst: true,
-            multiline: 'last',
+            noSortAlphabetically: true,
             reservedFirst: true,
           },
         ],
@@ -192,6 +191,7 @@ module.exports = {
           {
             callbacksLast: true,
             requiredFirst: true,
+            noSortAlphabetically: true,
           },
         ],
       },
