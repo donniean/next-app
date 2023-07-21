@@ -1,4 +1,4 @@
-import Logo from '@/assets/images/logo-1.svg';
+import Logo from '@/assets/images/logo.svg';
 
 export default function Root() {
   return (
