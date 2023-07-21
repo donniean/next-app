@@ -1,6 +1,6 @@
 import Logo from '@/assets/images/logo.svg';
 
-export default function Home() {
+export default function Root() {
   return (
     <div className="flex flex-col items-center justify-center p-[32px]">
       <Logo />
