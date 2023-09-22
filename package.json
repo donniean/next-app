@@ -63,7 +63,7 @@
     "eslint-plugin-vitest": "^0.3.1",
     "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
-    "markdownlint-cli": "^0.36.0",
+    "markdownlint-cli": "^0.37.0",
     "postcss": "^8.4.30",
     "prettier": "^3.0.3",
     "prettier-plugin-tailwindcss": "^0.5.4",
