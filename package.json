@@ -41,7 +41,7 @@
     "@types/react-dom": "^18.2.17",
     "@typescript-eslint/eslint-plugin": "^6.13.2",
     "@typescript-eslint/parser": "^6.13.2",
-    "@vitest/coverage-v8": "^1.0.1",
+    "@vitest/coverage-v8": "^1.0.2",
     "autoprefixer": "^10.4.16",
     "commitizen": "^4.3.0",
     "cspell": "^8.1.3",
