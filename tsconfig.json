@@ -32,20 +32,20 @@
     "checkJs": true,
     // custom
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
     },
     "plugins": [
       {
-        "name": "next"
+        "name": "next",
       },
       {
         "name": "typescript-plugin-css-modules",
         "options": {
-          "classnameTransform": "camelCase"
-        }
-      }
-    ]
+          "classnameTransform": "camelCase",
+        },
+      },
+    ],
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules"],
 }
