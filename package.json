@@ -24,9 +24,7 @@
     "start": "next start",
     "test": "vitest run",
     "test:coverage": "vitest run --coverage",
-    "test:watch": "vitest watch",
-    "lint-all": "npm-run-all lint:*",
-    "lint-all:fix": "npm-run-all lint:*:fix"
+    "test:watch": "vitest watch"
   },
   "dependencies": {
     "clsx": "^2.1.0",
@@ -70,7 +68,6 @@
     "husky": "^9.0.11",
     "lint-staged": "^15.2.2",
     "markdownlint-cli": "^0.39.0",
-    "npm-run-all": "^4.1.5",
     "postcss": "^8.4.38",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.14",
