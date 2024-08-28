@@ -39,7 +39,7 @@
     "@commitlint/cli": "^19.4.1",
     "@commitlint/config-conventional": "^19.4.1",
     "@donniean/configs": "^6.23.4",
-    "@next/eslint-plugin-next": "^14.2.6",
+    "@next/eslint-plugin-next": "^14.2.7",
     "@types/eslint": "^9.6.0",
     "@types/node": "^22.5.1",
     "@types/react": "^18.3.4",
