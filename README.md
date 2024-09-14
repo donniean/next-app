@@ -22,4 +22,6 @@ npm run build
 
 ## Recommended Packages
 
-[refer here](https://github.com/donniean/react-app#recommended-packages)
+- [next-intl](https://github.com/amannn/next-intl)
+
+And [refer here](https://github.com/donniean/react-app#recommended-packages)
