@@ -51,7 +51,7 @@
     "autoprefixer": "^10.4.20",
     "commitizen": "^4.3.0",
     "concurrently": "^9.0.1",
-    "cspell": "^8.14.2",
+    "cspell": "^8.14.4",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.57.1",
     "eslint-config-airbnb": "^19.0.4",
