@@ -38,7 +38,7 @@
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
-    "@donniean/configs": "^6.23.4",
+    "@donniean/configs": "^6.23.5",
     "@next/eslint-plugin-next": "^14.2.15",
     "@types/eslint": "^9.6.0",
     "@types/node": "^22.7.5",
