@@ -41,7 +41,7 @@
     "@donniean/configs": "^6.23.7",
     "@next/eslint-plugin-next": "^15.1.3",
     "@types/eslint": "^9.6.0",
-    "@types/node": "^22.10.3",
+    "@types/node": "^22.10.5",
     "@types/react": "^19.0.2",
     "@types/react-dom": "^19.0.2",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
